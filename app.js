@@ -8,12 +8,9 @@ app.use(cors());
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
-app.post('/rka-server/api/login', function(req, res, next) {
-
-	console.log(req.body);
-	
-	res.json({
-		error: false,
+var loginFailed = function(response) {
+	response.json({
+		error: true,
 		alerts: {
 			code: 200,
 			message: "retrieve success"
@@ -27,7 +24,34 @@ app.post('/rka-server/api/login', function(req, res, next) {
 			token: 'asdf1234'
 		}
 	})
-	
+}
+
+var loginSuccess = function(response) {
+	response.json({
+		error: false,
+		alerts: {
+			code: 200,
+			message: "login failed"
+		},
+		data: {
+			user_id: 1,
+			username: 'budiman',
+			roles: [
+				'ROLE_ADMIN',
+			],
+			token: 'asdf1234'
+		}
+	})
+}
+
+app.post('/rka-server/api/login', function(req, res, next) {
+	var input = req.body;
+
+	if(input.username == 'budiman' && input.password == 'password') {
+		loginSuccess(res);
+	} else {
+		loginFailed(res);
+	}
 });
 
 app.listen(9090, function() {
