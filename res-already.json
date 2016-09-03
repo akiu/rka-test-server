@@ -1,0 +1,51 @@
+{
+  "idPengajuan": 73,
+  "proxy": [
+    {
+      "nilai": 0.7,
+      "status": true
+    }
+  ],
+  "idKkks": 6,
+  "statusPengajuan": [
+    {
+      "idMasterStatus": 223,
+      "namaStatus": "Periksa Kelengkapan Dokumen"
+    }
+  ],
+  "penanggungJawab": "Budi",
+  "jabatan": "HR Manager",
+  "namaKkks": "PT Chevron Pacific Indonesia",
+  "dokumenPengajuan": [
+    {
+      "filepath": "/file/cok.xlsx",
+      "keterangan": "aku aladah",
+      "originalFilename": "anak_gembala.pdf"
+    },
+    {
+      "filepath": "/file/cok.xlsx",
+      "keterangan": "aku adalah",
+      "originalFilename": "anak_gembala.pdf"
+    }
+  ],
+  "suratPengajuan": [
+    {
+      "jenisSurat": "jenissurat",
+      "tanggalSurat": "2016-08-30T23:43:06Z",
+      "filepath": "/file/cok.xlsx",
+      "noSurat": "1234",
+      "originalFilename": "anak_gembala.pdf"    
+    },
+    {
+      "jenisSurat": "jenissurat2",
+      "tanggalSurat": "2016-08-30T23:43:53Z",
+      "filepath": "/file/cok.xlsx",
+      "noSurat": "1222",
+      "originalFilename": "anak_gembala.pdf"
+    }
+  ],
+  "filepath": "/file/cok.xlsx",
+  "filename": "Pengajuan Rka",
+  "drive_fileId": "1Lzq_eLOg40ntpuu8vpZwKfCYRTk4qvNk2BaIDY8GrUQ",
+  "drive_embedLink": "https://docs.google.com/spreadsheets/d/1Lzq_eLOg40ntpuu8vpZwKfCYRTk4qvNk2BaIDY8GrUQ/htmlembed"
+}

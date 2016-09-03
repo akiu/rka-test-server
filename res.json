@@ -1,0 +1,628 @@
+{
+   "message":"Lampiran RKA berhasil diproses",
+   "results":[
+      {
+         "sheet_name":"Lampiran 1 - EAST AMBALAT BLOCK",
+         "datas":[
+            {
+               "jenisKegiatan":"Production Expenses",
+               "items":{
+                  "manYearTka":"",
+                  "manYearTki":"",
+                  "salaryWagesTka":"",
+                  "benefitTka":"",
+                  "salaryWagesTki":"",
+                  "benefitTrainingTki":"",
+                  "benefitEmployeeWalfareTki":"",
+                  "benfitOthersTki":"",
+                  "sundries":"",
+                  "outsideServiceTke":"",
+                  "outsideServiceTki":"",
+                  "total":0
+               }
+            },
+            {
+               "jenisKegiatan":"Administration Expenses",
+               "items":{
+                  "manYearTka":"",
+                  "manYearTki":"",
+                  "salaryWagesTka":"",
+                  "benefitTka":"",
+                  "salaryWagesTki":"",
+                  "benefitTrainingTki":"",
+                  "benefitEmployeeWalfareTki":"",
+                  "benfitOthersTki":"",
+                  "sundries":"",
+                  "outsideServiceTke":"",
+                  "outsideServiceTki":"",
+                  "total":0
+               }
+            },
+            {
+               "jenisKegiatan":"AFE",
+               "items":{
+                  "manYearTka":"",
+                  "manYearTki":"",
+                  "salaryWagesTka":"",
+                  "benefitTka":"",
+                  "salaryWagesTki":"",
+                  "benefitTrainingTki":"",
+                  "benefitEmployeeWalfareTki":"",
+                  "benfitOthersTki":"",
+                  "sundries":"",
+                  "outsideServiceTke":"",
+                  "outsideServiceTki":"",
+                  "total":0
+               }
+            },
+            {
+               "jenisKegiatan":"Parameter",
+               "items":{
+                  "manYearTka":0,
+                  "manYearTki":0,
+                  "salaryWagesTka":0,
+                  "benefitTka":0,
+                  "salaryWagesTki":0,
+                  "benefitTrainingTki":0,
+                  "benefitEmployeeWalfareTki":0,
+                  "benfitOthersTki":0,
+                  "sundries":0,
+                  "outsideServiceTke":0,
+                  "outsideServiceTki":0,
+                  "total":0
+               }
+            }
+         ]
+      },
+      {
+         "sheet_name":"Lampiran 1 - WEST PAPUA I BLOCK",
+         "datas":[
+            {
+               "jenisKegiatan":"Production Expenses",
+               "items":{
+                  "manYearTka":"",
+                  "manYearTki":"",
+                  "salaryWagesTka":"",
+                  "benefitTka":"",
+                  "salaryWagesTki":"",
+                  "benefitTrainingTki":"",
+                  "benefitEmployeeWalfareTki":"",
+                  "benfitOthersTki":"",
+                  "sundries":"",
+                  "outsideServiceTke":"",
+                  "outsideServiceTki":"",
+                  "total":0
+               }
+            },
+            {
+               "jenisKegiatan":"Administration Expenses",
+               "items":{
+                  "manYearTka":"",
+                  "manYearTki":"",
+                  "salaryWagesTka":"",
+                  "benefitTka":"",
+                  "salaryWagesTki":"",
+                  "benefitTrainingTki":"",
+                  "benefitEmployeeWalfareTki":"",
+                  "benfitOthersTki":"",
+                  "sundries":"",
+                  "outsideServiceTke":"",
+                  "outsideServiceTki":"",
+                  "total":0
+               }
+            },
+            {
+               "jenisKegiatan":"AFE",
+               "items":{
+                  "manYearTka":"",
+                  "manYearTki":"",
+                  "salaryWagesTka":"",
+                  "benefitTka":"",
+                  "salaryWagesTki":"",
+                  "benefitTrainingTki":"",
+                  "benefitEmployeeWalfareTki":"",
+                  "benfitOthersTki":"",
+                  "sundries":"",
+                  "outsideServiceTke":"",
+                  "outsideServiceTki":"",
+                  "total":0
+               }
+            },
+            {
+               "jenisKegiatan":"Parameter",
+               "items":{
+                  "manYearTka":0,
+                  "manYearTki":0,
+                  "salaryWagesTka":0,
+                  "benefitTka":0,
+                  "salaryWagesTki":0,
+                  "benefitTrainingTki":0,
+                  "benefitEmployeeWalfareTki":0,
+                  "benfitOthersTki":0,
+                  "sundries":0,
+                  "outsideServiceTke":0,
+                  "outsideServiceTki":0,
+                  "total":0
+               }
+            }
+         ]
+      },
+      {
+         "sheet_name":"Lampiran 2",
+         "datas":{
+            "TKA":[
+               {
+                  "keterangan":"Jumlah Pekerja di Perusahaan",
+                  "items":{
+                     "outlookTahunIni":"",
+                     "Q1":"",
+                     "Q2":"",
+                     "Q3":"",
+                     "Q4":"",
+                     "fte":null
+                  }
+               },
+               {
+                  "keterangan":"Rekrutmen",
+                  "items":{
+                     "outlookTahunIni":"",
+                     "Q1":"",
+                     "Q2":"",
+                     "Q3":"",
+                     "Q4":0,
+                     "fte":null
+                  }
+               }
+            ],
+            "TKI":[
+               {
+                  "keterangan":"Jumlah Pekerja di Perusahaan",
+                  "items":{
+                     "outlookTahunIni":"",
+                     "Q1":"",
+                     "Q2":"",
+                     "Q3":"",
+                     "Q4":"",
+                     "fte":null
+                  }
+               },
+               {
+                  "keterangan":"Rekrutmen",
+                  "items":{
+                     "outlookTahunIni":"",
+                     "Q1":"",
+                     "Q2":"",
+                     "Q3":"",
+                     "Q4":0,
+                     "fte":null
+                  }
+               }
+            ],
+            "dataPihakKe3":[
+               {
+                  "keterangan":"Contract Service",
+                  "items":{
+                     "outlookTahunIni":"",
+                     "Q1":"",
+                     "Q2":"",
+                     "Q3":"",
+                     "Q4":"",
+                     "fte":null
+                  }
+               },
+               {
+                  "keterangan":"Labor Supply",
+                  "items":{
+                     "outlookTahunIni":"",
+                     "Q1":"",
+                     "Q2":"",
+                     "Q3":"",
+                     "Q4":"",
+                     "fte":null
+                  }
+               },
+               {
+                  "keterangan":"Konsultan SDM",
+                  "items":{
+                     "outlookTahunIni":"",
+                     "Q1":"",
+                     "Q2":"",
+                     "Q3":"",
+                     "Q4":"",
+                     "fte":null
+                  }
+               }
+            ],
+            "posisiIndonesianisasi":[
+               {
+                  "keterangan":"Fungsi Eksplorasi",
+                  "items":{
+                     "outlookTahunIni":"",
+                     "Q1":"",
+                     "Q2":"",
+                     "Q3":"",
+                     "Q4":0,
+                     "fte":null
+                  }
+               },
+               {
+                  "keterangan":"Fungsi Produksi",
+                  "items":{
+                     "outlookTahunIni":"",
+                     "Q1":"",
+                     "Q2":"",
+                     "Q3":"",
+                     "Q4":0,
+                     "fte":null
+                  }
+               },
+               {
+                  "keterangan":"Fungsi Administrasi & Lainnya",
+                  "items":{
+                     "outlookTahunIni":"",
+                     "Q1":"",
+                     "Q2":"",
+                     "Q3":"",
+                     "Q4":0,
+                     "fte":null
+                  }
+               }
+            ]
+         }
+      },
+      {
+         "sheet_name":"Lampiran 3",
+         "datas":{
+            "dataLitBang":[
+               {
+                  "keterangan":"Orientasi Pekerja baru",
+                  "items":{
+                     "usulanTka":"",
+                     "usulanTki":"",
+                     "variansTka":"",
+                     "variansTki":""
+                  }
+               },
+               {
+                  "keterangan":"Sertifikasi",
+                  "items":{
+                     "usulanTka":"",
+                     "usulanTki":"",
+                     "variansTka":"",
+                     "variansTki":""
+                  }
+               },
+               {
+                  "keterangan":"Pendidikan Formal (S1/S2/S3)",
+                  "items":{
+                     "usulanTka":"",
+                     "usulanTki":"",
+                     "variansTka":"",
+                     "variansTki":""
+                  }
+               },
+               {
+                  "keterangan":"Pelatihan (In House - Pubic)",
+                  "items":{
+                     "usulanTka":"",
+                     "usulanTki":"",
+                     "variansTka":"",
+                     "variansTki":""
+                  }
+               },
+               {
+                  "keterangan":"Magang/CO-OP",
+                  "items":{
+                     "usulanTka":"",
+                     "usulanTki":"",
+                     "variansTka":"",
+                     "variansTki":""
+                  }
+               },
+               {
+                  "keterangan":"Job Assignment/TDE",
+                  "items":{
+                     "usulanTka":"",
+                     "usulanTki":"",
+                     "variansTka":"",
+                     "variansTki":""
+                  }
+               },
+               {
+                  "keterangan":"PSC Secction 12 (NCB)",
+                  "items":{
+                     "usulanTka":"",
+                     "usulanTki":"",
+                     "variansTka":"",
+                     "variansTki":""
+                  }
+               }
+            ],
+            "dataEmployeeWelfare":[
+               {
+                  "keterangan":"Kegiatan Keagamaan",
+                  "items":{
+                     "usulanTka":"",
+                     "usulanTki":"",
+                     "variansTka":"",
+                     "variansTki":""
+                  }
+               },
+               {
+                  "keterangan":"Kegiatan Olahraga & Budaya",
+                  "items":{
+                     "usulanTka":"",
+                     "usulanTki":"",
+                     "variansTka":"",
+                     "variansTki":""
+                  }
+               },
+               {
+                  "keterangan":"Kegiatan Pekerja & Kelompok",
+                  "items":{
+                     "usulanTka":"",
+                     "usulanTki":"",
+                     "variansTka":"",
+                     "variansTki":""
+                  }
+               }
+            ]
+         }
+      },
+      {
+         "sheet_name":"Lampiran 3A",
+         "datas":{
+            "dataSalaryWages":[
+               {
+                  "komponen":"Upah Pokok",
+                  "items":{
+                     "TkiDenganHakLembur":"",
+                     "TkiTanpaHakLembur":"",
+                     "TkiManajerial":"",
+                     "TkiEksekutif":""
+                  }
+               },
+               {
+                  "komponen":"Tunjangan Cuti",
+                  "items":{
+                     "TkiDenganHakLembur":"",
+                     "TkiTanpaHakLembur":"",
+                     "TkiManajerial":"",
+                     "TkiEksekutif":""
+                  }
+               },
+               {
+                  "komponen":"THRK",
+                  "items":{
+                     "TkiDenganHakLembur":"",
+                     "TkiTanpaHakLembur":"",
+                     "TkiManajerial":"",
+                     "TkiEksekutif":""
+                  }
+               }
+            ],
+            "dataBenefits":[
+
+            ],
+            "dataSundries":[
+
+            ]
+         }
+      },
+      {
+         "sheet_name":"Lampiran 3B",
+         "dataSalaryWages":[
+            {
+               "komponen":"Salary & Wages",
+               "items":{
+                  "TkaProfesional":"",
+                  "TkaManagerial":"",
+                  "TkaDirectReportTopExecutive":"",
+                  "TkaTopExecutive":""
+               }
+            },
+            {
+               "komponen":"Upah Pokok",
+               "items":{
+                  "TkaProfesional":"",
+                  "TkaManagerial":"",
+                  "TkaDirectReportTopExecutive":"",
+                  "TkaTopExecutive":""
+               }
+            },
+            {
+               "komponen":"Tunjangan Cuti",
+               "items":{
+                  "TkaProfesional":"",
+                  "TkaManagerial":"",
+                  "TkaDirectReportTopExecutive":"",
+                  "TkaTopExecutive":""
+               }
+            }
+         ],
+         "dataBenefits":[
+
+         ],
+         "dataSundries":[
+
+         ]
+      },
+      {
+         "sheet_name":"Lampiran 4",
+         "datas":{
+            "orientasiPekerjaBaru":{
+               "usulanProgram":120,
+               "variance":120
+            },
+            "sertifikasi":{
+               "usulanProgram":"",
+               "variance":""
+            },
+            "pendidikanFormal":[
+               {
+                  "keterangan":"Strata 1",
+                  "usulanProgram":"",
+                  "variance":""
+               },
+               {
+                  "keterangan":"Strata 2",
+                  "usulanProgram":"",
+                  "variance":""
+               },
+               {
+                  "keterangan":"Strata 3",
+                  "usulanProgram":"",
+                  "variance":""
+               },
+               {
+                  "keterangan":"",
+                  "usulanProgram":"",
+                  "variance":""
+               }
+            ],
+            "pelatihan":[
+               {
+                  "keterangan":"In House",
+                  "usulanProgram":"",
+                  "variance":""
+               },
+               {
+                  "keterangan":"Public Domestic",
+                  "usulanProgram":"",
+                  "variance":""
+               },
+               {
+                  "keterangan":"Public Overseas",
+                  "usulanProgram":"",
+                  "variance":""
+               },
+               {
+                  "keterangan":"",
+                  "usulanProgram":"",
+                  "variance":""
+               }
+            ],
+            "magang":[
+               {
+                  "keterangan":"Magang/Internship",
+                  "usulanProgram":"",
+                  "variance":""
+               },
+               {
+                  "keterangan":"Graduate Program",
+                  "usulanProgram":"",
+                  "variance":""
+               },
+               {
+                  "keterangan":"refer to PTK 018",
+                  "usulanProgram":"",
+                  "variance":""
+               }
+            ],
+            "jobAssignment":[
+               {
+                  "keterangan":"Domestic Assignment",
+                  "usulanProgram":"",
+                  "variance":""
+               },
+               {
+                  "keterangan":"International assignment",
+                  "usulanProgram":"",
+                  "variance":""
+               },
+               {
+                  "keterangan":"TDE (Technical Development Exchange)",
+                  "usulanProgram":"",
+                  "variance":""
+               }
+            ]
+         }
+      },
+      {
+         "sheet_name":"Lampiran 5",
+         "datas":{
+            "contractServices":[
+
+            ],
+            "laborSupply":[
+               {
+                  "namaKontrak":"Labor Supply",
+                  "jangkaWaktu":"",
+                  "totalAnggaran":{
+                     "totalAnggaranOriginal":"",
+                     "totalAnggaranRevisi":""
+                  },
+                  "anggaranAfeBs":"",
+                  "anggaranTahunIni":{
+                     "rekomendasi":"",
+                     "revisi":"",
+                     "realisasiSmt1":""
+                  },
+                  "anggaranTahunDepan":{
+                     "tke":"",
+                     "tki":""
+                  }
+               }
+            ],
+            "konsultanSDM":[
+               {
+                  "namaKontrak":"Konsultan SDM",
+                  "jangkaWaktu":"",
+                  "totalAnggaran":{
+                     "totalAnggaranOriginal":"",
+                     "totalAnggaranRevisi":""
+                  },
+                  "anggaranAfeBs":"",
+                  "anggaranTahunIni":{
+                     "rekomendasi":"",
+                     "revisi":"",
+                     "realisasiSmt1":""
+                  },
+                  "anggaranTahunDepan":{
+                     "tke":"",
+                     "tki":""
+                  }
+               }
+            ]
+         }
+      },
+      {
+         "sheet_name":"Lampiran 6",
+         "datas":{
+            "jobFamily":[
+
+            ]
+         }
+      },
+      {
+         "sheet_name":"Inputan",
+         "datas":{
+            "bussinessTrip":"",
+            "sosialBudaya":{
+               "KegiatanOlahraga":"",
+               "kegiatanKeagamaan":"",
+               "kegiatanSilaturahmi":""
+            },
+            "biayaTenagaKerjaPihak3":[
+
+            ],
+            "pesangon":{
+               "danaTersedia":"",
+               "danaKeseluruhanYangDiperlukan":""
+            },
+            "programPensiun":{
+               "iuranPasti":"",
+               "manfaatPasti":""
+            },
+            "notes":[
+
+            ]
+         }
+      }
+   ],
+   "path":"hahaha/hahaha",
+   "originalFileName": "hahaha.xlsx",
+   "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+   "drive_embedLink": "https://docs.google.com/spreadsheets/d/1Lzq_eLOg40ntpuu8vpZwKfCYRTk4qvNk2BaIDY8GrUQ/htmlembed",
+   "drive_fileId": "1Lzq_eLOg40ntpuu8vpZwKfCYRTk4qvNk2BaIDY8GrUQ"
+}
